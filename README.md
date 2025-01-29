@@ -47,3 +47,7 @@ GOOGLE_MAPS_API_KEY=YOUR_KEY_HERE
 npm start
 ```
 Now, access `http://localhost:3000` in your browser.
+
+## 🤝 Contributing
+
+Contributions are welcome! Feel free to fork the project and contribute.
